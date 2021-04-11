@@ -1,5 +1,5 @@
 ## Professional Experience 
---------- 
+
 
 __Temporay Assistant__ [Center for Energy Studies, Baker Institute for Public Policy](https://www.bakerinstitute.org/center-for-energy-studies/) 
 
@@ -29,13 +29,11 @@ Houston,Texas (May 2016- Dec 2016)
   * Participated in the assessment process using a variety of methods and techniques and provide effective timely and appropriate feedback to students to support their learning. 
   
   ## Research Interests 
-  ---------------- 
-  
-  >Environmental justice and Environmental policy. 
+ 
+  >**Environmental justice and Environmental policy. 
   
   ## Education 
-  ----------- 
-  
+
   [University of California, Riverside](https://spp.ucr.edu/) California, United States 
   __Master of Arts,__ *Public Policy* (Expected 2022) 
   *Concentration: Environmental Policy* 
@@ -47,11 +45,11 @@ Houston,Texas (May 2016- Dec 2016)
   __Bachelor of Science,__ *Economics and Finance* (2004-2007) 
   
   ## Skills 
-  ---------- 
+
   
   __Technical/Software__ Microsoft Office, STATA16, Python, ArcGIS, Google Drive, MacOS, Wordpress 
   
   ## Languages 
-  ----------
+
   
   English, Urdu, Punjabi and Conversational Hindi
